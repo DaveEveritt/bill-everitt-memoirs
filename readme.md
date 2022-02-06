@@ -21,7 +21,9 @@ The [tribute](tribute.md) read out at his funeral gives a general background, wi
 
 ## TO DO
 
-- [ ] continue at the start of "WAE 9"
+- [ ] start "WAE 10"
+- [ ] WAE 9: work out "other room down~ the, kitchen"
+- [ ] WAE 9: edit "well-known children destinations" to read well
 
 ## Images
 

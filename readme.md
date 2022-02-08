@@ -22,9 +22,8 @@ The [tribute](tribute.md) read out at his funeral gives a general background, wi
 ## TO DO
 
 - [ ] start "WAE 14"
-- [ ] WAE 9/13: merge duplicated material "bike in the kitchen"
-- [ ] add more sub-headings in 8-13
 - [ ] separate files into sections by sub-head
+- [ ] add a main menu
 
 ## Images
 

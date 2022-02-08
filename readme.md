@@ -21,9 +21,7 @@ The [tribute](tribute.md) read out at his funeral gives a general background, wi
 
 ## TO DO
 
-- [ ] start "WAE 13"
-- [ ] WAE 9: work out "other room down~ the, kitchen"
-- [ ] WAE 9: edit "well-known children destinations" to read well
+- [ ] start "WAE 14"
 - [ ] WAE 9/13: merge duplicated material "bike in the kitchen"
 - [ ] make more sub-headings where possible
 

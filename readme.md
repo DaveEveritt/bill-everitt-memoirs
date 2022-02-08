@@ -24,6 +24,7 @@ The [tribute](tribute.md) read out at his funeral gives a general background, wi
 - [ ] start "WAE 14"
 - [ ] separate files into sections by sub-head
 - [ ] add a main menu
+- [ ] sort garbled text at end of WAE 22
 
 ## Images
 

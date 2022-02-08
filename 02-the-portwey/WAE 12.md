@@ -1,4 +1,4 @@
-## Deliveries by horse and cart
+### Deliveries by horse and cart
 
 Because we were living on the edge of the town there were not a lot of shops in the area. The main ones were The Co-operative Society Store on the Uppingham Road, a sweets and newspaper shop at the corner of Trafford Road and another grocers, Hills on the corner of Coleman Road. The milkman, who delivered the milk with a pony and cart was a tall gaunt man called Mr. Heggs. His dairy was halfway down Trafford Road and was always cold and spotlessly clean. Mrs. Heggs sold butter and other dairy produce in the small shop attached. The milk on the milk float was carried in churns and poured into large oval shaped cans to bring it to the door. When the lid was lifted on the can, there were measures for the different quantities; this was then poured from the measure into your jug.
 

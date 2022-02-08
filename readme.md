@@ -29,12 +29,14 @@ The [tribute](tribute.md) read out at his funeral gives a general background, wi
 
 - [ ] work out how to add images
 - [ ] scan The Portwey numbers 24
-- [ ] various family members (try the family history)
+- [ ] list all family members mentioned
+- [ ] use the family history files to identify people
 - [ ] 24 The Portwey (WAE 8)
 - [ ] Aunt Em (WAE 7)
 - [ ] young Arthur Everitt (Bill’s father)
 - [ ] uncle Alf
 - [ ] uncle George
+- [ ] Great Aunt Bessie
 
 ## Optional
 

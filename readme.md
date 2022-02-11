@@ -17,6 +17,12 @@ After which, there are no further files.
 
 The [tribute](tribute.md) read out at his funeral gives a general background, with some details from friends and family.
 
+## Leicester in the Early 20th Century
+
+from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/)
+
+"Leicester was described in a magazine in 1909: it is difficult to think of Leicester as a town of considerable industrial importance. The impression remains with one of a clear and sunny atmosphere with wide streets, clean brick buildings, and a constant background of green trees. The boot and hosiery factories appear to give out little or no smoke. Leicester continued to grow rapidly during the 20th century. It was made a city in 1919."
+
 ---
 
 ## TO DO

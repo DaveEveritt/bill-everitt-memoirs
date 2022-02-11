@@ -27,16 +27,16 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 
 ## TO DO
 
-- [ ] start "WAE 14"
+- [ ] start "WAE 17"
 - [ ] separate files into sections by sub-head
 - [ ] add a main menu
 - [ ] sort garbled text at end of WAE 22
+- [ ] list all family members mentioned
 
 ## Images
 
 - [ ] work out how to add images
 - [ ] scan The Portwey numbers 24
-- [ ] list all family members mentioned
 - [ ] use the family history files to identify people
 - [ ] 24 The Portwey (WAE 8)
 - [ ] Aunt Em (WAE 7)

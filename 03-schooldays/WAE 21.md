@@ -1,3 +1,5 @@
+## Scholarship
+
 [CORRECTIONS? structure they aped the private boarding schools, stories about them were brought civilisationnatives in scomingBarnabasquiteBoardschoolfather earnedlittlealoneeducationrepetitionachievement andgroups 1A, 1B and 1Alpha. 1alphawhichdissectionsa humandifferenceandus inEnglishEnglishTheseU]
 
 and my scholarship was completely free. There were only about three or four that came into this category.) The grammar schools were supported to some extent by fee paying pupils These were those who attended by becoming full fee paying pupils. In socials tructure they aped the private b(oarding schools?) which were the mainstay of boy's magazines along with tales of the empire and how we brought civilisation to Africa and India. Sadly all of this was comming to an end.

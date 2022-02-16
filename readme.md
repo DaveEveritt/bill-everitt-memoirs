@@ -2,11 +2,11 @@
 
 Born: William Arthur Everitt, Leicester 1925, died: Oadby 2008
 
-These memoirs are the first part of my father’s life story, which I encouraged him to write down. They run up to 1938. He said many time that he didn’t likke talking about the war, or what he did. However, we now know that part of his work was to inspect crashed aircraft to determine the cause.
+These memoirs are the first part of my father’s life story, which I encouraged him to write down. They run up to 1938. He didn’t like talking about the war or what he did then. However, we now know that part of his work was to inspect crashed aircraft to determine the cause.
 
-They are from files found on his computer after his death, and were in an old format from which the text had to be extracted and repaired. Some of the text appears to have been scanned from printed (perhaps originally typewritten?) copies by OCR (Optical Character Recognition) which had misread a word or two, while other partially-duplicated text appeared to be corrections, so it was necessary to work out the meaning in places and make edits for readability.
+The text is from files found on his computer after his death, in an old format from which the text had to be extracted and repaired. Some of the text appears to have been scanned from printed (perhaps originally typewritten?) pages by OCR (Optical Character Recognition) which sometimes misreads words, while other partially-duplicated text appeared to be corrections, so it was necessary to work out the meaning in places and make edits for readability.
 
-The very first file was titled “Chapter 1” and although subsequent chapters are not labelled, there are four main headings:
+The very first file was titled “Chapter 1” and, although subsequent chapters are not labelled, there are four main headings:
 
 - Very Early Years
 - Life at the Portwey
@@ -27,9 +27,9 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 
 ## TO DO
 
+- [ ] add a main menu
 - [ ] start "WAE 17"
 - [ ] separate files into sections by sub-head
-- [ ] add a main menu
 - [ ] sort garbled text at end of WAE 22
 - [ ] list all family members mentioned
 

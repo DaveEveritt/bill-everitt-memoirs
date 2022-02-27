@@ -32,6 +32,7 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 - [ ] separate files into sections by sub-head
 - [ ] sort garbled text at end of WAE-21
 - [ ] list all family members mentioned
+- [ ] add links to tribute.md
 
 ## Images
 

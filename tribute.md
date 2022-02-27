@@ -1,7 +1,7 @@
-I'd just like to say thanks to everyone who contributed their thoughts to what I am about to read - there are some quotes at the end, but I won't embarrass anyone by giving names - you know who you are!
+<!-- I'd just like to say thanks to everyone who contributed their thoughts to what I am about to read - there are some quotes at the end, but I won't embarrass anyone by giving names - you know who you are!
 
 ---
-
+ -->
 Bill Everitt was born William Arthur Everitt in Leicester in 1925 and grew up in Evington with his very dear sister Jessie, children of Grace Everitt who was known in the family as a benign and caring matriarch.
 
 He attended grammar school and became a very keen gymnast, swimmer and diver.
@@ -53,8 +53,6 @@ QUOTES:
 He was a very good friend and a decent bloke.
 
 Kind and thoughtful, he thought a lot about other people apart from himself. And I'd never known him to get angry.
-
----
 
 I've never known Bill to be in a bad mood, except once when he ran out of cigarettes when we were crossing the top of a pass in the Lake district...
 

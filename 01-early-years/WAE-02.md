@@ -9,3 +9,7 @@ Veterans of the Crimea were still alive, as were the survivors of the American c
 My grandmother, my father’s mother born in the 1850’s (I think), was still alive although, through some forgotten scandal the real date of her birth is shrouded in mystery and varies anywhere within a period of ten years. That's another story, as is the story of the death of her husband, my grandfather.
 
 On my mother’s side of the family, there was my grandfather whose wife had also died at the beginning of the century, leaving him with six children to raise between the ages of one and fourteen years old. At the time they were living at 13 Edward Road in Clarendon Park, and my Aunt Em (short for Emily) always talked nostalgically of “those days when we lived in Edward Road”. Grandfather’s occupation was variously: waggoner, coachman, cabbie although originally apprenticed as an upholsterer to Inglesants, a large furniture store and manufacturer. His first love, and throughout his life, was horses; much the same pattern as the youth of today is obsessed with cars and motor cycles. I believe he worked in the 1900’s for a hire firm called Illston’s situated in Humberstone Gate, and he remained friends with Mrs. Illston.
+
+---
+
+<a href="./WAE-01.md">Previous</a> | <a href="./WAE-02.md">Next</a>

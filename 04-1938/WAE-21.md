@@ -12,4 +12,4 @@ progress Spain I Austria and Germany school allowed science paper covering Engli
 
 ---
 
-<a href="../03-schooldays/WAE-20.html">Previous</a> | <a href="../readme.html">Read me</a>
+<a href="../03-schooldays/WAE-20.html">Previous</a> | <a href="../">Read me</a>

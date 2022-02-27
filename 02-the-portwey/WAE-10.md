@@ -11,3 +11,7 @@ Although my father worked hard and long peculiar hours, he always had time for t
 ### An accident-prone best freind
 
 My special friend was Fred Soars and, up to the time he was called up for the second war, we were absolutely inseparable—even to the point of us both being apprenticed to the same trade and spending our lives in the printing industry. It was Fred who had a serious accident coming home one Saturday night. He and Reg Cooper were racing down the Humberstone Hill and collided with a car. He was in the infirmary for a while but came out a hero in our eyes, with broken bones and a large gash on his chin, a scar he carried for the rest of his life. Fred was always the instigator of what we did, but was always prone to something happening to him. I doubt if even he could tell you the number of times he broke his arm. He always seemed to be in plaster for some reason or another. It must have had an effect on his health as he was sent to the open air school at Western Park to be “built up” (as it was phrased then).
+
+---
+
+<a href="./WAE-09.html">Previous</a> | <a href="./WAE-11.html">Next</a>

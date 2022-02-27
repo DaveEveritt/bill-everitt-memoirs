@@ -27,11 +27,12 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 
 ## TO DO
 
-- [ ] add a main menu
-- [ ] start "WAE 18"
-- [ ] decide where to place "WAE 20"
+- [ ] add a temporary main menu in readme file
+- [ ] add links between files
+- [ ] start "WAE-18"
+- [ ] decide where to place "WAE-20"
 - [ ] separate files into sections by sub-head
-- [ ] sort garbled text at end of WAE 22
+- [ ] sort garbled text at end of WAE-22
 - [ ] list all family members mentioned
 
 ## Images

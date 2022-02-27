@@ -8,10 +8,10 @@ The text is from files found on his computer after his death, in an old format f
 
 The very first file was titled “Chapter 1” and, although subsequent chapters are not labelled, there are four main headings:
 
-- Very Early Years
-- Life at the Portwey
-- Schooldays
-- 1938
+- [Very Early Years](./01-early-years/WAE-01.md)
+- [Life at the Portwey](02-the-portwey/WAE-08.md)
+- [Schooldays](03-schooldays/WAE-14.md)
+- [1938](04-1938/WAE-22.md)
 
 After which, there are no further files.
 

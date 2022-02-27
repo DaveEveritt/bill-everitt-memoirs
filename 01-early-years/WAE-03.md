@@ -4,3 +4,6 @@ My grandfather moved out of the house and what happened to him during the next t
 
 My paternal grandmother, I believe, originally lived in Curzon Street on the Humberstone Road and later, round about 1890, they moved to Syston. At the time that I remember her she was living in St. Leonard's Road, Clarendon Park with her eldest daughter, my aunt Nell (Nellie Blanche), a maiden aunt I could never really understand as she was such a serious and uncompromising spinster and, to me as a child, rather frightening and extremely remote. She worked all her life at Wheeler, Son and Kilpack, wholesale grocers. The back entrance to the house in St. Leonard's Road was on Montague Road, and Edward Road was off Montague Road. I often wonder if my grandparents knew, or knew of, each other.
 
+---
+
+<a href="./WAE-02.md">Previous</a> | <a href="./WAE-04.md">Next</a>

@@ -11,3 +11,7 @@ The interior of the house and the fittings I suppose were the height of developm
 Living in a street that was a dead end and having the Brook and fields at the end of the road made it possible for children of all ages, even very young, to use the street as a playground. Another advantage was the width of the road, being an unused dual carriageway space was not at a premium. It was lit by gaslights down the centre and had rows of trees both sides and a double line of trees down the centre to aid as goal posts, home bases and cricket stumps for the boys; for the girls, skipping ropes were tied to them to act as high jumps and the centre island acted as a good tennis court middle. All the families that lived there at that time were approximately the same age with children of around the same age as myself up to the age of my sister.
 
 The city boundary was the Uppingham Road turn where Scraptoft Lane branched off. From there on it was all country; every road and lane led to destinations well-known to the children, but more of those later.
+
+---
+
+<a href="../01-early-years/WAE-07.html">Previous</a> | <a href="./WAE-09.html">Next</a>

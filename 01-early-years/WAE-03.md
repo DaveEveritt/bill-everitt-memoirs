@@ -6,4 +6,4 @@ My paternal grandmother, I believe, originally lived in Curzon Street on the Hum
 
 ---
 
-<a href="./WAE-02.md">Previous</a> | <a href="./WAE-04.md">Next</a>
+<a href="./WAE-02.html">Previous</a> | <a href="./WAE-04.html">Next</a>

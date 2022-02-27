@@ -11,3 +11,7 @@ Aunt Em reported all misdemeanours to uncle Alf who disciplined the children by 
 Listening to my mother telling the stories I gather that she was a bit of a rebel and didn’t like doing as she was told. Such as the story of when she bought herself a pair of silk stockings and was going out, when my aunt caught her and wearing silk stockings was equivalent to consorting with the devil! My aunt ripped them off and burnt them and made her go out in good sensible woollen ones.
 
 One of the favourite meeting places for my mother was the Jetty Wine Shop in the Market Place and it appears that her and uncle George were regulars there, although in later life my mother was frightened to death that one of the family would become addicted to drink. I think this was because my grandfather liked to drink and my great aunt thought this was very wicked.
+
+---
+
+<a href="./WAE-05.html">Previous</a> | <a href="./WAE-07.html">Next</a>

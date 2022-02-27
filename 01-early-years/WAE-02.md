@@ -12,4 +12,4 @@ On my mother’s side of the family, there was my grandfather whose wife had als
 
 ---
 
-<a href="./WAE-01.md">Previous</a> | <a href="./WAE-02.md">Next</a>
+<a href="./WAE-01.html">Previous</a> | <a href="./WAE-02.html">Next</a>

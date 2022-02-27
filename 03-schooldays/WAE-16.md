@@ -5,3 +5,7 @@ The first years at school taught me to associate with other children; there was 
 Half way through the first year came the huge step forward of going home from school on my own. On recalling the first time, the distance seemed enormous although the introduction to it had been in easy stages. I had started as all children are, by being taken to school, home at lunch time (no school dinners) collected and returned after lunch either by my mother, or by my father on the crossbar of his bike, on a cushion tied on, with my feet placed each side of the front forks on little steps that stick out each side of the fork crown, holding the handle bars near the middle. The first stage towards independence was being met at the corner of St. Barnabas Road, where a policeman was on point duty at school finishing times to see children across the road. The meetings receded in stages to being nearer home until finally the full distance was covered.
 
 It is difficult to imagine this taking place in these days without the parents being accused of neglect although I wasn't unique, all children were expected to arrive at the stage of moderate independence by the end of their first year at school. All adults were expected to be guardians of the younger generations and it would be below the dignity of older children to associate in any shape or form with younger children. Intimidation or bullying was unsportsmanlike and very much frowned upon when it was against youngsters.
+
+---
+
+<a href="./WAE-15.html">Previous</a> | <a href="./WAE-17.html">Next</a>

@@ -9,3 +9,7 @@ All work in the secondary school was towards one objective: The School Certifica
 ---
 
 progress Spain I Austria and Germany school allowed science paper covering English other the level e twentieth century when the events of the first world war were the main memories of my parents' generation, the Boer war was still remembered by an older generation still.
+
+---
+
+<a href="../03-schooldays/WAE-20.html">Previous</a> | <a href="../readme.html">Read me</a>

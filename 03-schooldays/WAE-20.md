@@ -49,3 +49,7 @@ I mentioned the monthly tests earlier and their importance. Another important as
 DONE TO HERE
 
 The subjects we were taught: English languge, English literature, French (5 years), German (3 years) Chemistry, Physics, Biology, Mathematics (Arithmetic, Geometry, Algebra, Trigonometry, Mechanics), Geography, History. You were expected to know enough maths by the third year to allow you to progress to trig and mechanics and technical drawing. French instead of latin and German gave you the basis for understanding English from its latin and nordic roots and gave you the basis to progress to other languages (there was a war going on in Spain). Politics were not taught but involved us a great deal, The two sides being Fascism and communism, and all news was biased towards these divisions. Rival gangs of teenagers and older men held meetings in the town (about?) these ideologies. The blackshirts under sir Oswald Moseley were the fascist supporters and communist supporters were a part of Labour. Most of (these blackshirts?) looked on it as perhaps finishing the job their fathers had started.
+
+---
+
+<a href="./WAE-19.html">Previous</a> | <a href="../04-1938/WAE-21.html">Next</a>

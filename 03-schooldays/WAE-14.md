@@ -10,4 +10,4 @@ The playground was divided across the middle by iron railings, the part nearest 
 
 ---
 
-<a href="../02-portwey/WAE-07.html">Previous</a> | <a href="./WAE-15.html">Next</a>
+<a href="../02-the-portwey/WAE-13.html">Previous</a> | <a href="./WAE-15.html">Next</a>

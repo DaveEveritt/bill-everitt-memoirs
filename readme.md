@@ -27,10 +27,9 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 
 ## TO DO
 
-- [ ] edit text in "WAE-20"
-- [ ] check "WAE-20" text for duplicates
+- [ ] edit text in "WAE-21"
+- [ ] check "WAE-20" and 21 text for duplicate material
 - [ ] separate files into sections by sub-head
-- [ ] sort garbled text at end of WAE-21
 - [ ] list all family members mentioned
 - [ ] add links to tribute.md
 

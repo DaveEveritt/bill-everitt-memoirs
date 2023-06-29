@@ -49,3 +49,5 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 
 - [ ] add pop-ups with details over names?
 - [ ] add a family tree diagram of the people mentioned?
+
+<!-- leicester historic images https://www.pinterest.co.uk/pin/68820700545273570/ -->

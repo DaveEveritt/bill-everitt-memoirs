@@ -50,4 +50,9 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 - [ ] add pop-ups with details over names?
 - [ ] add a family tree diagram of the people mentioned?
 
-<!-- leicester historic images https://www.pinterest.co.uk/pin/68820700545273570/ -->
+<!--
+- leicester historic images https://www.pinterest.co.uk/pin/68820700545273570/
+- Pin, old Leicester: https://www.pinterest.co.uk/pin/25192079155347292/
+- Pin, old Leicester: https://www.pinterest.co.uk/jewelsfem/leicester-pre-1950/
+- Plough and windmill (WAE-10) https://pubhistoryproject.co.uk/2021/02/12/windmill-inn-old-plough-humberstone-village/
+-->

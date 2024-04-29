@@ -11,7 +11,7 @@ The very first file was titled “Chapter 1” and, although subsequent chapters
 - [Very Early Years](https://daveeveritt.github.io/bill-everitt-memoirs/01-early-years/WAE-01.html)
 - [Life at the Portwey](https://daveeveritt.github.io/bill-everitt-memoirs/02-the-portwey/WAE-08.html)
 - [Schooldays](https://daveeveritt.github.io/bill-everitt-memoirs/03-schooldays/WAE-14.html)
-- [1938](https://daveeveritt.github.io/bill-everitt-memoirs/04-1938/WAE-22.html)
+- [1938](https://daveeveritt.github.io/bill-everitt-memoirs/04-1938/WAE-21.html)
 
 After which, there are no further files.
 

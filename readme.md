@@ -1,19 +1,22 @@
 # Bill Everitt: memoirs
 
-Born: William Arthur Everitt, Leicester 1925, died: Oadby 2008
-
-These memoirs are the first part of my father’s life story, which I encouraged him to write down. They run up to 1938. He didn’t like talking about the war or what he did then. However, we now know that part of his work was to inspect crashed aircraft to determine the cause.
-
-The text is from files found on his computer after his death, in an old format from which the text had to be extracted and repaired. Some of the text appears to have been scanned from printed (perhaps originally typewritten?) pages by OCR (Optical Character Recognition) which sometimes misreads words, while other partially-duplicated text appeared to be corrections, so it was necessary to work out the meaning in places and make edits for readability.
-
-The very first file was titled “Chapter 1” and, although subsequent chapters are not labelled, there are four main headings:
+<figure style="max-width: 72%; margin: 1em auto; font-size: .9em; text-align: center;">
+  <img src="images/bill-everitt-portrait.png" alt="Bill Everitt, relaxed">
+  <figcaption>Born: William Arthur Everitt, Leicester 1925, died: Oadby 2008</figcaption>
+</figure>
 
 - [Very Early Years](https://daveeveritt.github.io/bill-everitt-memoirs/01-early-years/WAE-01.html)
 - [Life at the Portwey](https://daveeveritt.github.io/bill-everitt-memoirs/02-the-portwey/WAE-08.html)
 - [Schooldays](https://daveeveritt.github.io/bill-everitt-memoirs/03-schooldays/WAE-14.html)
 - [1938](https://daveeveritt.github.io/bill-everitt-memoirs/04-1938/WAE-21.html)
 
-After which, there are no further files.
+This collection of [my father’s writing](https://daveeveritt.github.io/bill-everitt-memoirs/) is the first part of my his life story, which I encouraged him to write down. They run up to 1938. He didn’t like talking about the war or what he did then. However, we now know that part of his work was to inspect crashed aircraft to determine the cause.
+
+The text is from files on his computer and in his papers found after his death, in an old format from which the text had to be extracted and repaired. Some of the text appears to have been scanned from printed (perhaps originally typewritten?) pages by OCR (Optical Character Recognition) which sometimes misreads words, while other partially-duplicated text appeared to be corrections, so it was necessary to work out the meaning in places and make edits for readability.
+
+The very first file was titled “Chapter 1” and, although subsequent chapters are not labelled, there are four main headings:
+
+After which, there are no further files. There is more written text, but it overlaps existing memoirs and will require more work to integrate.
 
 The [tribute](tribute.md) read out at his funeral gives a general background, with some details from friends and family.
 

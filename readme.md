@@ -8,9 +8,9 @@
 - [Very Early Years](https://daveeveritt.github.io/bill-everitt-memoirs/01-early-years/WAE-01.html)
 - [Life at the Portwey](https://daveeveritt.github.io/bill-everitt-memoirs/02-the-portwey/WAE-08.html)
 - [Schooldays](https://daveeveritt.github.io/bill-everitt-memoirs/03-schooldays/WAE-14.html)
-- [1938](https://daveeveritt.github.io/bill-everitt-memoirs/04-1938/WAE-21.html)
+- [1938: War](https://daveeveritt.github.io/bill-everitt-memoirs/04-1938/WAE-21.html)
 
-This collection of [my father’s writing](https://daveeveritt.github.io/bill-everitt-memoirs/) is the first part of my his life story, which I encouraged him to write down. They run up to 1938. He didn’t like talking about the war or what he did then. However, we now know that part of his work was to inspect crashed aircraft to determine the cause.
+This collection of [my father’s writing](https://daveeveritt.github.io/bill-everitt-memoirs/) is the first part of my his life story, about his childhood in Leicester, which I encouraged him to write down. They run up to 1938. He didn’t like talking about the war or what he did then. However, we now know that part of his work was to inspect crashed aircraft to determine the cause.
 
 The text is from files on his computer and in his papers found after his death, in an old format from which the text had to be extracted and repaired. Some of the text appears to have been scanned from printed (perhaps originally typewritten?) pages by OCR (Optical Character Recognition) which sometimes misreads words, while other partially-duplicated text appeared to be corrections, so it was necessary to work out the meaning in places and make edits for readability.
 
@@ -30,28 +30,18 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 
 ## TO DO
 
-- [ ] edit text in "WAE-21"
-- [ ] check "WAE-20" and 21 text for duplicate material
-- [ ] separate files into sections by sub-head
-- [ ] list all family members mentioned
-- [ ] add links to tribute.md
+- [ ] Add sub-heads to sections 01 and 02
+- [ ] list family members mentioned and add images
+- [ ] make compact family tree of people mentioned?
 
-## Images
+## Images (use family history files?)
 
-- [ ] work out how to add images
-- [ ] scan The Portwey numbers 24
-- [ ] use the family history files to identify people
-- [ ] 24 The Portwey (WAE 8)
-- [ ] Aunt Em (WAE 7)
+- [ ] (WAE 8) 24 The Portwey: scan numbers, house photo
+- [ ] (WAE 7) Aunt Em
 - [ ] young Arthur Everitt (Bill’s father)
 - [ ] uncle Alf
 - [ ] uncle George
 - [ ] Great Aunt Bessie
-
-## Optional
-
-- [ ] add pop-ups with details over names?
-- [ ] add a family tree diagram of the people mentioned?
 
 <!--
 - leicester historic images https://www.pinterest.co.uk/pin/68820700545273570/

@@ -31,6 +31,7 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 ## TO DO
 
 - [ ] Add sub-heads to sections 01 and 02
+- [ ] Add navigation menu within sections
 - [ ] list family members mentioned and add images
 - [ ] make compact family tree of people mentioned?
 

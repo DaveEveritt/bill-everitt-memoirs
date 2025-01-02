@@ -5,8 +5,14 @@
   <figcaption>Born: William Arthur Everitt, Leicester 1925, died: Oadby 2008</figcaption>
 </figure>
 
-- [Very Early Years](https://daveeveritt.github.io/bill-everitt-memoirs/01-early-years/WAE-01.html)
-- [Life at the Portwey](https://daveeveritt.github.io/bill-everitt-memoirs/02-the-portwey/WAE-08.html)
+[Introduction](1.1-introduction.html)
+[1. Early Years](1-early-years/1.1-very-early-years.html)
+[2. The Portwey](2-the-portwey/2.1-introduction.html)
+[3. Schooldays](/)
+[4. 1938](/)
+
+- [Very Early Years](1-early-years/1.1-introduction.html)
+- [Life at the Portwey](2-the-portwey/WAE-08.html)
 - [Schooldays](https://daveeveritt.github.io/bill-everitt-memoirs/03-schooldays/WAE-14.html)
 - [1938: War](https://daveeveritt.github.io/bill-everitt-memoirs/04-1938/WAE-21.html)
 

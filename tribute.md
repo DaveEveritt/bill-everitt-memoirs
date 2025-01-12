@@ -1,7 +1,10 @@
 <!-- I'd just like to say thanks to everyone who contributed their thoughts to what I am about to read - there are some quotes at the end, but I won't embarrass anyone by giving names - you know who you are!
 
 ---
- -->
+-->
+
+# Bill Everitt: a Tribute
+
 Bill Everitt was born William Arthur Everitt in Leicester in 1925 and grew up in Evington with his very dear sister Jessie, children of Grace Everitt who was known in the family as a benign and caring matriarch.
 
 He attended grammar school and became a very keen gymnast, swimmer and diver.
@@ -65,3 +68,7 @@ He always helped me, and I felt he always did understand.
 We never really fell out, and were always able to work through problems together - we could sort things out openly by talking them through.
 
 In fact, his wife Vera sometimes called him 'William the Great'!
+
+---
+
+< [Back to index](./readme.html)

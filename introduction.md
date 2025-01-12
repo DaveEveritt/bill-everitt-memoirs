@@ -8,4 +8,4 @@ Well, what will my descendants want to read? World events are well documented, r
 
 ---
 
-<a href="../">Read Me</a> | <a href="./WAE-02.html">Next</a>
+<a href="./">Index</a> | <a href="./1-early-years/1.1-very-early-years.html">Next</a>

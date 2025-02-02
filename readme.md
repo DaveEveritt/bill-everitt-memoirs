@@ -13,6 +13,8 @@
 - [4. 1938](./4-1938/4.1-war-and-politics.html)
 -->
 
+IMPORTANT! The links below work only here: [my father’s writing](https://daveeveritt.github.io/bill-everitt-memoirs/)
+
 - [Introduction](./introduction.html)
 - 1. Early Years
   - [1.1-Very Early Years](./1-early-years/1.1-very-early-years.html)

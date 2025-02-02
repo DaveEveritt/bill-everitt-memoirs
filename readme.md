@@ -16,14 +16,14 @@
 IMPORTANT! The links below work only here: [my father’s writing](https://daveeveritt.github.io/bill-everitt-memoirs/)
 
 - [Introduction](./introduction.html)
-- 1. Early Years
+- Early Years
   - [1.1-Very Early Years](./1-early-years/1.1-very-early-years.html)
   - [1.2-Great Aunt Bessie and Grandparents](./1-early-years/1.2-aunt-bessie-grandparents.html)
   - [1.3-Birth and Welfare](./1-early-years/1.3-birth-and-welfare.html)
   - [1.4-The Portwey and an Accident](./1-early-years/1.4-the-portwey-and-an-accident.html)
   - [1.5-Events Recounted by my Mother or Father](./1-early-years/1.5-events-recounted-by-parents.html)
   - [1.6-Aunt Em](./1-early-years/1.6-aunt-em.html)
-- 2. Before School
+- Before School
   - [2.1 The Portwey](./2-before-school/2.1-the-portwey.html)
   - [2.2 Inside The House](./2-before-school/2.2-inside-the-house.html)
   - [2.3 A Serious Injury](./2-before-school/2.3-a-serious-injury.html)
@@ -32,7 +32,7 @@ IMPORTANT! The links below work only here: [my father’s writing](https://davee
   - [2.6 Humberstone Pubs](./2-before-school/2.6-humberstone-pubs.html)
   - [2.7 Road Building](./2-before-school/2.7-road-building.html)
   - [2.8 Friends Before School](./2-before-school/2.8-friends-before-school.html)
-- 3. Schooldays
+- Schooldays
   - [3.1 Schooldays, the Beginning](./3-schooldays/3.1-starting-school.html)
   - [3.2 School Routine and Discipline](./3-schooldays/3.2-routine-and-discipline.html)
   - [3.3 Going to School Alone](./3-schooldays/3.3-going-to-school-alone.html)
@@ -40,7 +40,7 @@ IMPORTANT! The links below work only here: [my father’s writing](https://davee
   - [3.5 Play and Life around The Portwey](./3-schooldays/3.5-play-entertainment.html)
   - [3.6 The School System at St. Barnabas](./3-schooldays/3.6-school-system.html)
   - [3.7 Scholarship and Grammar School](./3-schooldays/3.7-scholarship-grammar-school.html)
-- 4. 1938
+- 1938
   - [4.1 War and Politics](./4-1938/4.1-war-and-politics.html)
 
 This collection of [my father’s writing](https://daveeveritt.github.io/bill-everitt-memoirs/) is the first part of my his life story, about his childhood in Leicester, which I encouraged him to write down. They run up to 1938. He didn’t like talking about the war or what he did then. However, we now know that part of his work was to inspect crashed aircraft to determine the cause.

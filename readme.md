@@ -13,11 +13,23 @@
 - [4. 1938](./4-1938/4.1-war-and-politics.html)
 -->
 
+<style>
+  ul { margin: 0 0 .75em 0; list-style-type: none; }
+  li { padding-bottom: .5em; }
+  details a { text-decoration: none; }
+  summary h3 { padding-bottom: .25em; }
+  h3 { margin: .25em; padding-left: .9em; font-weight: normal; }
+  summary h3 { display: inline-block; padding-left: 0; }
+  summary h3:hover { cursor: pointer; text-decoration: underline; }
+  h3, h3 a, li a { color: #333; text-decoration: none; }
+  h3 a:hover, li a:hover { text-decoration: underline; }
+</style>
+
 - [Introduction](./introduction.html)
 - 1. Early Years
   - [1.1-Very Early Years](./1-early-years/1.1-very-early-years.html)
-  - [1.2-Great Aunt Bessie and Grandparents](./1-early-years/1.2-aunt-bessie-grandparents/.html)
-  - [1.3-Birth and Welfare](./1-early-years/1.3-birth-and-welfare/.html)
+  - [1.2-Great Aunt Bessie and Grandparents](./1-early-years/1.2-aunt-bessie-grandparents.html)
+  - [1.3-Birth and Welfare](./1-early-years/1.3-birth-and-welfare.html)
   - [1.4-The Portwey and an Accident](./1-early-years/1.4-the-portwey-and-an-accident.html)
   - [1.5-Events Recounted by my Mother or Father](./1-early-years/1.5-events-recounted-by-parents.html)
   - [1.6-Aunt Em](./1-early-years/1.6-aunt-em.html)

@@ -79,6 +79,8 @@ from [A History Of Leicester](https://localhistories.org/a-history-of-leicester/
 <!--
 "Sickly children, wayward girls and maiden aunts"
 
+- https://www.nationalarchives.gov.uk/search/results?_q=leicester
+- https://www.storyofleicester.info
 - leicester historic images https://www.pinterest.co.uk/pin/68820700545273570/
 - Pin, old Leicester: https://www.pinterest.co.uk/pin/25192079155347292/
 - Pin, old Leicester: https://www.pinterest.co.uk/jewelsfem/leicester-pre-1950/

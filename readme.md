@@ -13,18 +13,6 @@
 - [4. 1938](./4-1938/4.1-war-and-politics.html)
 -->
 
-<style>
-  ul { margin: 0 0 .75em 0; list-style-type: none; }
-  li { padding-bottom: .5em; }
-  details a { text-decoration: none; }
-  summary h3 { padding-bottom: .25em; }
-  h3 { margin: .25em; padding-left: .9em; font-weight: normal; }
-  summary h3 { display: inline-block; padding-left: 0; }
-  summary h3:hover { cursor: pointer; text-decoration: underline; }
-  h3, h3 a, li a { color: #333; text-decoration: none; }
-  h3 a:hover, li a:hover { text-decoration: underline; }
-</style>
-
 - [Introduction](./introduction.html)
 - 1. Early Years
   - [1.1-Very Early Years](./1-early-years/1.1-very-early-years.html)
